@@ -1,0 +1,41 @@
+*{
+    border: none;
+    margin: 0px;
+    padding: 0px;
+}
+.place{
+    margin-left: 35px;
+}
+
+.block{
+    display: block;
+}
+
+.titlu{
+    margin-top: 15px;
+}
+
+.resume{
+    border-top: 12px solid blueviolet;
+    padding: 10px;
+    display: flex;
+}
+
+.experience-div{
+    display: flex;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.inline{
+    display: inline;
+}
+
+.img{
+    width: 100px;
+    border-radius: 70px;
+    margin-right: 10px;
+}
